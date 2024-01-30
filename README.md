@@ -21,5 +21,5 @@ To install the Sign Language Translator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sign-language-translator.git
+   git clone https://github.com/RMMagesh07/SignLanguage-Translator-Using-ML.git
    cd sign-language-translator
